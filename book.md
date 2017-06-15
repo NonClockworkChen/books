@@ -4,7 +4,10 @@
 |2|计算机组成与体系结构：性能设计 |
 |3|Head First HTML CSS|
 |4|head first 设计模式|
-
+|5|Effective Objective-C 2.0|
+|6|Objective-C 高级编程 iOS 与 OS X 多线程和内存管理 |
+|7|Objective-C 编程之道：iOS 设计模式解析|
+|8|Head First Servlets and JSP|
 
 
 
