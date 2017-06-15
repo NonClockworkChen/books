@@ -8,6 +8,7 @@
 |6|Objective-C 高级编程 iOS 与 OS X 多线程和内存管理 |
 |7|Objective-C 编程之道：iOS 设计模式解析|
 |8|Head First Servlets and JSP|
+|9||
 
 
 
@@ -55,7 +56,7 @@ C语言大学教程（第6版）
 价格:23
 
 javascript入门经典 
-![](/Users/xiacheng/Desktop/pics/QQ20170615-0@2x.png)
+![](pics/QQ20170615-0@2x.png)
 10元
 
 C/C++/C#程序员实用大全  
